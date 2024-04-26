@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+Greetings! I'm Bohan Zhu, a dynamic full-stack web developer with a keen interest in the intersection of Machine Learning and Web Development. My journey in software engineering has been a diverse one, where I've honed my skills in crafting seamless web experiences while simultaneously exploring the countless opportunities presented by Data Science techniques.
+
+
 
 <!--
 **zbh160/zbh160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
